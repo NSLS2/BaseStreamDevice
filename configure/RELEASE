@@ -1,0 +1,7 @@
+ASYN=/epics/src/support/asyn
+DEVIOCSTATS=/epics/src/support/iocStats
+STREAM=/epics/src/support/stream
+CALC=/epics/src/support/calc
+RECCASTER=/epics/src/support/reccaster
+AUTOSAVE=/epics/src/support/autosave
+EPICS_BASE=/epics/src/base
