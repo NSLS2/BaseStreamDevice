@@ -3,6 +3,9 @@ DEVIOCSTATS=/epics/src/support/iocStats
 STREAM=/epics/src/support/stream
 CALC=/epics/src/support/calc
 RECCASTER=/epics/src/support/reccaster
+BUSY=/epics/src/support/busy
+SNCSEQ=/epics/src/support/seq
+SSCAN=/epics/src/support/sscan
 AUTOSAVE=/epics/src/support/autosave
 EPICS_BASE=/epics/src/base
 
