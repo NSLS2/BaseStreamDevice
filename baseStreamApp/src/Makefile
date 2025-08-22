@@ -23,6 +23,7 @@ $(PROD_IOC)_DBD += stream.dbd
 $(PROD_IOC)_DBD += asSupport.dbd
 $(PROD_IOC)_DBD += devIocStats.dbd
 $(PROD_IOC)_DBD += calcSupport.dbd
+$(PROD_IOC)_DBD += reccaster.dbd
 
 
 # Add all the support libraries needed by this IOC
